@@ -1,5 +1,5 @@
 from PyQt5.Qtcore import Qt
-from PyQt5.QtWidgets import (QApplication, Qwidget, QHBoxLayout, QVBoxLayout. QGroupbox, QradioButton, QPushButton, QLabel, QlistWidget, QLineEdit)
+from PyQt5.QtWidgets import (QApplication, QWidget, QHBoxLayout, QVBoxLayout. QGroupbox, QradioButton, QPushButton, QLabel, QlistWidget, QLineEdit)
 
 from instr import *
 from final_win import *
